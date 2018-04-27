@@ -3,6 +3,12 @@ package praktek02.pkgnew;
 public class Rectangle {
     double panjang;
     double lebar;
+
+    public Rectangle() {
+        panjang=10;
+        lebar=50;
+    }
+    
     
     
     void cetakInfo(){
