@@ -8,6 +8,11 @@ public class Rectangle {
         panjang=10;
         lebar=50;
     }
+
+    public Rectangle(double panjang, double lebar) {
+        this.panjang = panjang;
+        this.lebar = lebar;
+    }
     
     
     
