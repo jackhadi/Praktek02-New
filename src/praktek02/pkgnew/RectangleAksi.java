@@ -10,5 +10,6 @@ public class RectangleAksi {
         
         a1.cetakInfo();
         System.out.println("Luas Rectangle adalah : "+a1.HitungLuas());
+        a1.cetakLuas();
     }
 }
